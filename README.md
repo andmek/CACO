@@ -3,7 +3,7 @@ Contemporary Amharic Corpus: Automatically Morpho-Syntactically Tagged Amharic C
 
 The contemporary Amharic corpus, which is automatically tagged for morphosyntactic information. Texts are collected from 25,199 documents from different domains and about 24 million orthographic words are tokenized. Since it is partly a web corpus, we made some automatic spelling error correction. We have also modified the existing morphological analyzer, HornMorphoA, to use it for the automatic tagging.
 
-The corpus is available at: http://www.findke.ovgu.de/findke/en/Research/Data+Sets/Contemporary+Amharic+Corpus+%28CACO%29.html. The current release doesnot include all of the documents. The work is still in progress and we shall release the full version very soon.
+The corpus is available at: http://www.findke.ovgu.de/findke/en/Research/Data+Sets/Contemporary+Amharic+Corpus+%28CACO%29.html.
 
 When using this data, please cite the original publication:
 
