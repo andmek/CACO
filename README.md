@@ -20,6 +20,7 @@ Gezmu, Andargachew Mekonnen, Binyam Ephrem Seyoum, Michael Gasser, and Andreas N
 
 # Download
 
+http://dx.doi.org/10.24352/ub.ovgu-2018-144 or
 http://wwwiti.cs.uni-magdeburg.de/iti_dke/Datasets/Contemporary_Amharic_Corpus_(CACO)-version_1.0.zip
 
 # Description
