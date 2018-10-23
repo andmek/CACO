@@ -1,7 +1,5 @@
 # Contemporary Amharic Corpus (CACO)
 
-# Abstract
-
 This is the Contemporary Amharic Corpus (CACO) version 1.0. CACO is collected from various sources which are proofread or edited. The corpus contains about 24 million orthographic words. Since it is partly a web corpus, we made some automatic spelling error corrections. We have also modified the existing morphological analyzer, HornMorphoA version 3.0, to use it for automatic tagging. (HornMorphoA version 3.0 is available at: https://github.com/hltdi/HornMorpho)
 
 # DOI
