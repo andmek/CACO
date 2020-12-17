@@ -11,7 +11,7 @@ http://dx.doi.org/10.24352/ub.ovgu-2018-144
 
 ### License
 
-All the documents in the corpus are documents which have been made publicly available in the Web. The corpus has been obtained by crawling the Web. In this distribution, for copyright reasons, the sentences are randomized. By downloading this corpus you agree that the corpus should only be used for research purposes.
+All the documents in the corpus are documents which have been made publicly available in the Web. The corpus has been obtained by crawling the Web. In this distribution, for copyright reasons, the order of sentences are shuffled. By downloading this corpus you agree that the corpus should only be used for research purposes.
 
 ### Citation
 
